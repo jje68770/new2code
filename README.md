@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/'>Learn Vue.js – JavaScript Framework Course</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/how-to-structure-your-readme-file/'>How to Structure Your README File – README Template Example</a> by Casmir Onyekani
+1. <a href='https://www.freecodecamp.org/news/how-to-parse-xml-in-python-without-using-external-libraries/'>How to Parse XML in Python Without Using External Libraries</a> by Bala Priya C
+2. <a href='https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/'>Learn Vue.js – JavaScript Framework Course</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
